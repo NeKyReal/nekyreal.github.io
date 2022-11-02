@@ -9,6 +9,17 @@
   cursor: pointer; 
 }
 
+.btn1 {
+  background-color: #b9120f;
+  border: none; 
+  color: white; 
+  width: 100%;
+  padding: 24px 32px;
+  margin-top: 4px;
+  font-size: 40px; 
+  cursor: pointer; 
+}
+
 .btn:hover {
-  background-color: RoyalBlue;
+  background-color: black;
 }
